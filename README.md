@@ -16,4 +16,5 @@ Sydney boasts a **warm, sunny climate** that is ideal for relaxing.They also hos
     * lamington cake
     * Chiko Rolls
     * Spring Rolls
-![my photo link](https://github.com/KKFJF/My02-mekala/blob/main/mountains-100367_1280.jpg)
+
+[priya](https://github.com/KKFJF/My02-mekala/blob/main/MyStats.md)
