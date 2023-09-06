@@ -45,4 +45,35 @@ Sydney boasts a **warm, sunny climate** that is ideal for relaxing.They also hos
 
 [link](https://stackoverflow.com/questions/56084015/css-box-shadows)
 
+...
+
+.shadow {
+  box-shadow: 3px 3px 5px 6px #ccc;
+}
+.shadow {
+  box-shadow: inset 0 0 10px #f8a100;
+}
+.one-edge-shadow {
+  box-shadow: 0 8px 6px -6px black;
+}
+<div class="shadow1">
+  <div class="content">Box-shadowed element</div>
+</div>
+.shadow1 {
+  margin: 40px;
+  background-color: rgb(68,68,68); /* Needed for IE */
+  box-shadow: 5px 5px 5px rgb(68 68 68 / 0.6);
+  filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30);
+  -ms-filter: "progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30)";
+  zoom: 1;
+}
+.shadow1 .content {
+  position: relative; /* This protects the inner element from being blurred */
+  padding: 100px;
+  background-color: #ddd;
+}
+
+...
+[ans](https://css-tricks.com/snippets/css/css-box-shadow/)
+
 
