@@ -18,3 +18,15 @@ Sydney boasts a **warm, sunny climate** that is ideal for relaxing.They also hos
     * Spring Rolls
 
 [priya](https://github.com/KKFJF/My02-mekala/blob/main/MyStats.md)
+
+-----
+
+### Sports
+
+|SPORTS   |        REASON                | WEEKHOURS |
+|-------  |------------------------------|-----------|
+|Tennis   |cardiovascular fitness.       | 3-5 hours |       
+|Hiking   |Nature, de-stress             | 4-6 hours |
+|Swimming |strength, and flexibility     | 3-7 hours |
+|Yoga     |physical and mental well-being| 2-4 hours |   
+
