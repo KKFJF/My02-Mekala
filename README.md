@@ -30,3 +30,12 @@ Sydney boasts a **warm, sunny climate** that is ideal for relaxing.They also hos
 |Swimming |strength, and flexibility     | 3-7 hours |
 |Yoga     |physical and mental well-being| 2-4 hours |   
 
+-----
+
+### Quotes
+*Albert Einstein*
+> The important thing is not to stop questioning.
+
+*Carl Sagan*
+> Somewhere, something incredible is waiting to be known.
+
